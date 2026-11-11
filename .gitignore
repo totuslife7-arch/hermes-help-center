@@ -1,0 +1,4 @@
+# No need for node_modules or build artifacts
+.DS_Store
+*.log
+
